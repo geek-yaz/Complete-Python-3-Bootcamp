@@ -1,7 +1,6 @@
-
 ---
 - name: Create groups and users on ansible.example.com
-  hosts: ansible.example.com
+  hosts: all
   become: yes
   gather_facts: no
 
