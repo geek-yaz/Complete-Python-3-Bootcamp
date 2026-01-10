@@ -1,0 +1,11 @@
+myusers:
+  - name: ravi
+    uid: 1010
+    first: ravi
+    last: sharma
+    middle: exam
+  - name: imran
+    uid: 1011
+    first: imran
+    last: owner
+    middle: geek
